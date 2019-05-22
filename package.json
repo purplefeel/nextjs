@@ -7,6 +7,18 @@
   "dependencies": {
     "next": "^8.0.0",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-brands-svg-icons": "^5.8.2",
+    "@fortawesome/free-regular-svg-icons": "^5.8.2",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "@zeit/next-sass": "^1.0.0",
+    "node-sass": "^4.7.2",
+    "now": "^15.3.0",
+    "react-svg": "^10.0.2",
+    "bootstrap": "^4.3.1",
+    "reactstrap": "^8.0.0",
+    "styled-components": "^4.2.0"
   }
 }
